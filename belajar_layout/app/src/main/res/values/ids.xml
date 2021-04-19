@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titlle" type="id"></item>
+    <item name="txt1" type="id"></item>
+    <item name="txt2" type="id"></item>
+    <item name="txt3" type="id"></item>
+    <item name="txt4" type="id"></item>
+    <item name="txt5" type="id"></item>
+    <item name="txt6" type="id"></item>
+    <item name="txt7" type="id"></item>
+    <item name="txt8" type="id"></item>
+    <item name="btn1" type="id"></item>
+    <item name="btn2" type="id"></item>
+    <item name="btn3" type="id"></item>
+    <item name="btn4" type="id"></item>
+    <item name="btn5" type="id"></item>
+    <item name="btn6" type="id"></item>
+    <item name="btn7" type="id"></item>
+    <item name="btn8" type="id"></item>
+</resources>
